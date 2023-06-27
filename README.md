@@ -1,2 +1,2 @@
 # Hend
-Projet python sur les gestions de nom des etudiants
+Projet python sur les gestions de notes des etudiants
